@@ -1,0 +1,15 @@
+.navbar{
+    display: flex;  
+
+}
+
+#logo{
+    height: 100px;
+    width: 100px;
+}
+
+.navleft{
+    height: 100px;
+    width: 200px;
+
+}
