@@ -1,15 +1,29 @@
 .navbar{
     display: flex;  
+    /* border:2px solid black; */
+    background-color:#0d0d32;
 
 }
 
-#logo{
-    height: 100px;
-    width: 100px;
+.navleft h2{
+    
 }
 
-.navleft{
-    height: 100px;
-    width: 200px;
+.navright{
+    display: flex;
+    /* justify-content: flex-end; */
+
+    border:2px solid blue;
+    margin-left:1400px ;
+    color: black;
+    
+}
+
+.navright div{
+    margin:20px;
+    border: 2px solid red;
+    /* justify-content: flex-end; */
+
+    color: black;
 
 }
